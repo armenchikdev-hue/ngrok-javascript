@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ngrok/ngrok": "^1.*",
-    "@remix-run/node": "^1.15.0",
+    "@remix-run/node": "^1.19.3",
     "@remix-run/react": "^1.15.0",
     "@remix-run/serve": "^1.15.0",
     "isbot": "^3.6.5",
